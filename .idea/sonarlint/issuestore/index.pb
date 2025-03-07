@@ -7,3 +7,5 @@ X
 (tests/quantum-voter-registration.test.ts,0/2/0255b8a70af903348bcd8ebffee0ba2cdf24bfe7
 _
 /contracts/entanglement-ballot-distribution.clar,c/8/c8d156f519aeddbcd0b8d9a97ca5365723cf660e
+^
+.tests/entanglement-ballot-distribution.test.ts,6/2/6297d54d60a3e365c0adf63be4df8289bf8016e6
