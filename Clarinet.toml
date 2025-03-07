@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.entanglement-ballot-distribution]
+path = 'contracts/entanglement-ballot-distribution.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.quantum-voter-registration]
 path = 'contracts/quantum-voter-registration.clar'
 clarity_version = 2
