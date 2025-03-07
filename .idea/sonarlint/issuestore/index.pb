@@ -9,3 +9,5 @@ _
 /contracts/entanglement-ballot-distribution.clar,c/8/c8d156f519aeddbcd0b8d9a97ca5365723cf660e
 ^
 .tests/entanglement-ballot-distribution.test.ts,6/2/6297d54d60a3e365c0adf63be4df8289bf8016e6
+Z
+*contracts/superposition-vote-counting.clar,6/c/6cf295539f5309006e0644b7ce2401b1f4414611

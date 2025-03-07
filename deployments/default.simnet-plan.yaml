@@ -59,4 +59,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/quantum-voter-registration.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: superposition-vote-counting
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/superposition-vote-counting.clar
+            clarity-version: 2
       epoch: "2.5"

@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/quantum-voter-registration.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.superposition-vote-counting]
+path = 'contracts/superposition-vote-counting.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
