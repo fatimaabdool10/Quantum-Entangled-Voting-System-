@@ -11,3 +11,5 @@ _
 .tests/entanglement-ballot-distribution.test.ts,6/2/6297d54d60a3e365c0adf63be4df8289bf8016e6
 Z
 *contracts/superposition-vote-counting.clar,6/c/6cf295539f5309006e0644b7ce2401b1f4414611
+Y
+)tests/superposition-vote-counting.test.ts,d/a/da2357d0c32331677e02508a7f1e3681b793afc4
